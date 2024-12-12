@@ -57,7 +57,7 @@ def aco(numFormigas, inicio, fim, arestas, custo, desejabilidade, feromonio, rho
     custosMelhores = []  # Lista para registrar os custos do melhor caminho
 
     for iteracao in range(maxIter):
-        print(f"\nIteração {iteracao + 1}/{maxIter}")
+        print(f"Progresso: {((iteracao + 1) / maxIter * 100):.2f}% concluído", end='\r')
 
         caminhosFormigas = []
         custosFormigas = []
