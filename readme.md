@@ -3,7 +3,7 @@
 Este repositório apresenta a implementação de um algoritmo baseado na Otimização por Colônia de Formigas (Ant Colony Optimization - ACO) para resolver problemas de busca de caminhos em grafos.
 
 # Publicado em:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14962790.svg)](https://doi.org/10.5281/zenodo.14962790)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14989451.svg)](https://doi.org/10.5281/zenodo.14989451)
 
 ## Descrição do Algoritmo
 
